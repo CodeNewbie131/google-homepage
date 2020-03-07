@@ -1,0 +1,97 @@
+body {
+    font-family: arial,sans-serif;
+}
+#google-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+}
+#search {
+    text-align: center;
+}
+#search-bar {
+    margin-top: 35px;
+    border-radius: 18px;
+    height: 40px;
+    width: 15.4cm;
+}
+#search-bar:focus{
+    outline: none;
+}
+button{
+    background-color: #f2f2f2;
+    color: #5F6368;
+    border-radius: 4px;
+}
+#button {
+    text-align: center;
+    margin-top: 24px;
+}
+#gose {
+    height: 35px;
+    width: 150px;
+    margin-right: 7px;
+}
+#felu {
+    height: 35px;
+    width: 150px;
+}
+a {
+    font-size: 13px;
+    color: #5F6368;
+    text-decoration: none;
+}
+li {
+    display: inline-block;
+}
+#nav-bar{
+    padding-left: 15px;
+    padding-top: 10px;
+}
+#gmail{
+    padding-left: 2280px;
+}
+#store{
+    padding-left: 8px;
+}
+#images {
+    padding-left: 8px;
+}
+#matrix{
+    position: absolute;
+    height: 38px;
+    width: 38px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+#footer {
+    position: fixed;
+    margin-bottom: 0px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #F5F5F5;
+    color: #5F6368;
+    padding: 15px;
+    font-size: 14px;
+    border-top: 1px solid #e4e4e4;
+}
+#advertising {
+    padding-left: 10px;
+}
+#business {
+    padding-left: 11px;
+}
+#hsw{
+    padding-left: 11px;
+}
+#privacy {
+    padding-left: 2070px;
+}
+#terms {
+    padding-left: 9px;
+}
+#settings {
+    padding-left: 9px;
+}
